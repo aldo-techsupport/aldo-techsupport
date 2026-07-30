@@ -304,11 +304,11 @@ Aplikasi piano interaktif berbasis web dengan dukungan MIDI, belajar lagu, dan v
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldoadityaputra&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldo-techsupport&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoadityaputra&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldo-techsupport&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldoadityaputra&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aldo-techsupport&theme=radical&hide_border=true)
 
 </div>
 
@@ -318,7 +318,7 @@ Aplikasi piano interaktif berbasis web dengan dukungan MIDI, belajar lagu, dan v
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=aldoadityaputra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aldo-techsupport&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -334,6 +334,6 @@ Aplikasi piano interaktif berbasis web dengan dukungan MIDI, belajar lagu, dan v
 
 ---
 
-⭐ **From [aldoadityaputra](https://github.com/aldoadityaputra)**
+⭐ **From [aldo-techsupport](https://github.com/aldo-techsupport)**
 
 </div>
