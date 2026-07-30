@@ -304,11 +304,11 @@ Aplikasi piano interaktif berbasis web dengan dukungan MIDI, belajar lagu, dan v
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-taupe.vercel.app/api?username=aldo-techsupport&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-taupe.vercel.app/api?username=aldo-techsupport&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2)
 
-![Top Languages](https://github-readme-stats-taupe.vercel.app/api/top-langs/?username=aldo-techsupport&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-taupe.vercel.app/api/top-langs/?username=aldo-techsupport&layout=compact&theme=radical&hide_border=true&v=2)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aldo-techsupport&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aldo-techsupport&theme=radical&hide_border=true&v=2)
 
 </div>
 
